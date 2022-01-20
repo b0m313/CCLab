@@ -13,7 +13,7 @@
 </aside>
 
 <aside>
-💡 최종 Study Timeline은 일정에 맞게 조율 될 예정입니다.
+💡 최종 Study Timeline은 일정에 맞게 조율 될 예정입니다. <br>
 
 </aside>
 
