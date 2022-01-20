@@ -14,7 +14,7 @@
 <aside>
 💡 최종 Study Timeline은 일정에 맞게 조율 될 예정입니다. 
 
-</aside> <br>
+</aside> <br> <br>
 📚 '완벽한 IT 인프라 구축을 위한 Docker(Asa Shiho 지음, Yamada Yoshihiro 감수, 신은화 옮김)' 책을 바탕으로 공부.
 <br> <br>
 
