@@ -11,9 +11,9 @@
 💡 현재 총 13 주차로 구성되어 있습니다(10-11 주차 까지로 도 조정 가능)
 
 </aside>
-
+<br>
 <aside>
-💡 최종 Study Timeline은 일정에 맞게 조율 될 예정입니다. <br>
+💡 최종 Study Timeline은 일정에 맞게 조율 될 예정입니다. 
 
 </aside>
 
